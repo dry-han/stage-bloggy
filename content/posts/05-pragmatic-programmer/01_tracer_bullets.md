@@ -1,7 +1,7 @@
 +++
 date = '2025-04-29T22:54:34+02:00'
 draft = false
-title = '01_tracer_bullets'
+title = 'Pragmatic Programmer - Tracer Bullets'
 +++
 
 Reference: The Pragmatic Programmer, David Thomas, Andrew Hunt
